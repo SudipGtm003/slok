@@ -1,0 +1,6 @@
+{
+  "name": "Vedic Astrology Learning & Knowledge System",
+  "description": "An interactive, educational platform for Vedic Astrology basics. Includes an Interpretation Engine for all 1,296 House-Rashi-Planet combinations, complete with Sanskrit Shlokas, prediction details, and classical remedies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
